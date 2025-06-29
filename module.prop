@@ -1,0 +1,6 @@
+id=fix_h96_m1
+name=Fix H96 (M1)
+version=v1.1.0
+versionCode=2
+author=Umar Alfarouk
+description=Modify several system files on H96 Max M1
